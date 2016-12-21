@@ -2,7 +2,7 @@ select * from student;
 
 
 
-insert into student values(1, '±è»çºÎ', 'ksb@test.co.kr', '1970-07-15');
-insert into student values(2, '°øÀ¯', 'ky@test.co.kr', '1977-07-17');
-insert into student values(3, '±è°íÀº', 'kky@test.co.kr', '1991-09-01');
+insert into student values(1, 'ï¿½ï¿½ï¿½ï¿½', 'ksb@test.co.kr', '1970-07-15');
+insert into student values(2, 'ï¿½ï¿½ï¿½ï¿½', 'ky@test.co.kr', '1977-07-17');
+insert into student values(3, 'ï¿½ï¿½ï¿½ï¿½ï¿½', 'kky@test.co.kr', '1991-09-01');
 

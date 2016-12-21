@@ -7,9 +7,14 @@ public class Student {
 	private String name;
 	private String email;
 	private Date dob;
-	public Student() {
+	public Student(int studId, String name, String email, Date dob) {
 		super();
-		// TODO Auto-generated constructor stub
+		this.studId = studId;
+		this.name = name;
+		this.email = email;
+		this.dob = dob;
+		
+		
 	}
 	public int getStudId() {
 		return studId;
